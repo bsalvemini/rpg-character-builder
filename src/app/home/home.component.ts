@@ -39,7 +39,7 @@ import { Component } from '@angular/core';
         <h3>Create a Knight</h3>
         <!-- Image from: https://unsplash.com/photos/a-close-up-of-a-guitar-wJRrKtDvH80 -->
         <img
-          src="/assets/carlos-felipe-ramirez-mesa-wJRrKtDvH80-unsplash.jpg"
+          src="assets/carlos-felipe-ramirez-mesa-wJRrKtDvH80-unsplash.jpg"
           alt="Knight armor"
         />
         <p>
@@ -49,7 +49,7 @@ import { Component } from '@angular/core';
         <div class="character">
           <h3>Create an Archer</h3>
           <!-- Image from: https://pixabay.com/illustrations/amazone-woman-warrior-heroine-613708/ -->
-          <img src="/assets/amazone-613708_640.png" alt="Female archer" />
+          <img src="assets/amazone-613708_640.png" alt="Female archer" />
           <p>
             Create a powerful archer with a name, a class, an epic backstory,
             and more. You can customize their abilities, powers, and other
@@ -59,7 +59,7 @@ import { Component } from '@angular/core';
         <div class="character">
           <h3>Create a Sorcerer</h3>
           <!-- Image from: https://pixabay.com/photos/magician-sorcerer-wizard-magic-8490445/ -->
-          <img src="/assets/magician-8490445_640.jpg" alt="A magician" />
+          <img src="assets/magician-8490445_640.jpg" alt="A magician" />
           <p>
             Create a fearsome sorcerer. Give them powers, a backstory and more.
           </p>
